@@ -1,3 +1,5 @@
+# The back end wasn't designed by me. 
+
 # Installation
 $ npm install
 
